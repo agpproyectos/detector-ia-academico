@@ -1,1 +1,6 @@
 
+{
+  "name": "Detector de Contenido Académico de IA",
+  "description": "Una aplicación para analizar texto académico y detectar la probabilidad de que haya sido generado por IA, proporcionando un informe detallado.",
+  "requestFramePermissions": []
+}
